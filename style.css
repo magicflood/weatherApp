@@ -1,0 +1,33 @@
+
+
+#contents {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+#city {
+    width: 250px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+#box {
+    width: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: aqua;
+    margin-top: 30px;
+    margin-inline: auto;
+    text-align: center;
+    color: white;
+}
